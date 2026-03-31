@@ -34,19 +34,6 @@ The model then predicts the **probability that the customer will churn**.
 - Streamlit
 - Pickle
 
----
-
-## Project Structure
-project/
-│
-├── app.py # Streamlit application
-├── model.h5 # Trained neural network model
-├── scaler.pkl # Feature scaler
-├── label_encoder_gender.pkl # Gender label encoder
-├── onehot_encoder_geo.pkl # Geography one-hot encoder
-│
-├── requirements.txt
-└── README.md
 
 
 ---
