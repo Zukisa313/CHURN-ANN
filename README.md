@@ -103,6 +103,55 @@ Probability ≤ 0.5 → Customer likely to stay
 
 ```bash
 pip install -r requirements.txt
+```
 
-## Model
+### Run the Streamlit app
+```
 streamlit run app.py
+```
+### Open in browser
+```
+http://localhost:8501
+```
+## Applications
+
+Customer churn prediction models are widely used in:
+
+- Banking
+- Telecommunications
+- Subscription services
+- Insurance
+- FinTech platforms
+
+They help companies reduce revenue loss by identifying at-risk customers.
+
+---
+
+## Future Improvements
+
+Possible extensions include:
+
+- Deploying the app to Streamlit Cloud
+- Adding model explainability (SHAP values)
+- Improving model performance with hyperparameter tuning
+- Adding API support using FastAPI
+- Integrating a database for real-time predictions
+
+---
+
+## Author
+
+**Zukisa Mkhize**  
+BSc Honours Applied Mathematics  
+Stellenbosch University  
+
+**Interests:**
+
+- Data Science
+- Machine Learning
+- Quantitative Finance
+- Financial Modelling
+
+
+
+
